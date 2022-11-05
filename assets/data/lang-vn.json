@@ -1,0 +1,119 @@
+{
+    "about": {
+        "work": "Full Task Developer"
+    },
+    "category": {
+        "introduce": "Giới thiệu",
+        "about": "Về tôi",
+        "education_and_experience": "Trình độ và kinh nghiệm",
+        "skills": "Kỹ năng",
+        "products": "Dự án",
+        "contact": "Liên hệ"
+    },
+    "introduce": {
+        "full_name": {
+            "key": "Họ và tên",
+            "value": ""
+        },
+        "birth_day": {
+            "key": "Ngày sinh",
+            "value": ""
+        },
+        "phone": {
+            "key": "SĐT",
+            "value": ""
+        },
+        "address": {
+            "key": "Địa chỉ",
+            "value": ""
+        },
+        "email": {
+            "key": "Email",
+            "value": ""
+        },
+        "facebook": {
+            "key": "Facebook",
+            "value": ""
+        },
+        "linked": {
+            "key": "Linked",
+            "value": ""
+        },
+        "work": {
+            "key": "Full Task",
+            "value": ""
+        },
+        "font-end": {
+            "key": "Font-end",
+            "value": ""
+        },
+        "back-end": {
+            "key": "Back-end",
+            "value": ""
+        },
+        "tool": {
+            "key": "Công cụ",
+            "value": ""
+        }
+    },
+    "objective": [
+        "To obtain a position and contribute to the development of the company",
+        "Through the time spent with the company, I was hoping to improve myself in academic, practical and social skill",
+        "Learn experience working and other programming languages."
+    ],
+    "education": {
+        "school": "Ho Chi Minh City University of Technology",
+        "year": "School year: 2012 - 2017",
+        "major": "Major: Computer Engineering",
+        "gpa": "GPA: 6.8/10.0"
+    },
+    "experiences": [
+        {
+            "time": "Ho Chi Minh City University of Technology",
+            "company": "School year: 2012 - 2017",
+            "task": "Major: Computer Engineering",
+            "works": {
+                "0": "work 1",
+                "1": "work 2",
+                "2": "work 3"
+            }
+        },
+        {
+            "time": "Ho Chi Minh City University of Technology",
+            "company": "School year: 2012 - 2017",
+            "task": "Major: Computer Engineering",
+            "works": {
+                "0": "work 1",
+                "1": "work 2",
+                "2": "work 3"
+            }
+        },
+        {
+            "time": "Ho Chi Minh City University of Technology",
+            "company": "School year: 2012 - 2017",
+            "task": "Major: Computer Engineering",
+            "works": {
+                "0": "work 1",
+                "1": "work 2",
+                "2": "work 3"
+            }
+        }
+    ],
+    "products": [
+        {
+            "name": "Kokotachi website",
+            "time": "2 months",
+            "size": "6",
+            "position": "Coding",
+            "technologies": {
+                "0": "React JS",
+                "1": "Bootstrap 4",
+                "2": "jQuery"
+            }
+        }
+    ],
+    "hobbies": [
+        "Like studying new technology, also the history, the creation and foundation of its.",
+        "Like play football, badminton, table tennis"
+    ]
+}

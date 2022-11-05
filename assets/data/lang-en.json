@@ -1,0 +1,344 @@
+{
+    "about": {
+        "work": "Full Task Developer"
+    },
+    "category": {
+        "introduce": "Introduce",
+        "about": "About",
+        "education_and_experience": "Education & Experience",
+        "education": "Education",
+        "experience": "Experience",
+        "skills": "Skills",
+        "products": "Products",
+        "contact": "Contact"
+    },
+    "introduce": {
+        "full_name": {
+            "key": "Full name",
+            "value": "PHAM VAN TUAN",
+            "isShow": true
+        },
+        "birth_day": {
+            "key": "Birthday",
+            "value": "23/04/1994",
+            "isShow": true
+        },
+        "gender": {
+            "key": "Gender",
+            "value": "Male",
+            "isShow": true
+        },
+        "nation": {
+            "key": "Nation",
+            "value": "Kinh",
+            "isShow": true
+        },
+        "religious": {
+            "key": "Religious",
+            "value": "No",
+            "isShow": true
+        },
+        "address": {
+            "key": "Address",
+            "value": "12 District, HCMC, VIETNAM",
+            "isShow": true
+        },
+        "email": {
+            "key": "Email",
+            "value": "tuanbk2304@gmail.com",
+            "isShow": true
+        },
+        "facebook": {
+            "key": "Facebook",
+            "value": "",
+            "isShow": false
+        },
+        "linked": {
+            "key": "Linked",
+            "value": "",
+            "isShow": false
+        },
+        "work": {
+            "key": "Full Task Developer",
+            "value": "",
+            "isShow": false
+        },
+        "hobbies": {
+            "key": "Hobbies",
+            "value": "",
+            "isShow": false
+        },
+        "font_end": {
+            "key": "Font-end",
+            "value": "",
+            "isShow": false
+        },
+        "back_end": {
+            "key": "Back-end",
+            "value": "",
+            "isShow": false
+        },
+        "tool": {
+            "key": "Tools",
+            "value": "",
+            "isShow": false
+        },
+        "database": {
+            "key": "Database",
+            "value": "",
+            "isShow": false
+        },
+        "experienceYear": "2,5 Years of Experience"
+    },
+    "objective": [
+        "To obtain a position and contribute to the development of the company",
+        "Through the time spent with the company, I was hoping to improve myself in academic, practical and social skill",
+        "Learn experience working and other programming languages."
+    ],
+    "educations": [
+        {
+            "school": "Ho Chi Minh City University of Technology",
+            "year": "2012 - 2017",
+            "major": "Computer Engineering",
+            "gpa": "6.8/10.0"
+        },
+        {
+            "school": "Hai Hau A High School - Nam Dinh - Viet Nam",
+            "year": "2009 - 2012",
+            "gpa": "Graduation high school"
+        }
+    ],
+    "experiences": [
+        {
+            "time": "February 2018 – Present",
+            "company": "PAXCREATION Company",
+            "position": "Full Task Developer",
+            "tasks": [
+                "Get requirements from Manager.",
+                "Analyze and design database.",
+                "Coding, Fix bug.",
+                "Read the documentation of new technology."
+            ]
+        },
+        {
+            "time": "September 2017 – February 2018",
+            "company": "Freelancer",
+            "position": "Full Task Developer",
+            "tasks": [
+                "Get requirements from Customer.",
+                "Analyze and design database.",
+                "Design UI, Coding, Fix bug.",
+                "Read the documentation of new technology."
+            ]
+        },
+        {
+            "time": "February 2017 – August 2017",
+            "company": "HCOSFACE Company",
+            "position": "Full Task Developer",
+            "tasks": [
+                "Get requirements from Customer.",
+                "Design UI, Coding, Fix bug."
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "name": "Font-end",
+            "level_max": 5,
+            "position": "left",
+            "technologies": [
+                {
+                    "name": "HTML5, CSS3",
+                    "level": 4
+                },
+                {
+                    "name": "JavaScript, ES6, TypeScript",
+                    "level": 4
+                },
+                {
+                    "name": "Bootstrap 3/4",
+                    "level": 4
+                },
+                {
+                    "name": "jQuery",
+                    "level": 4
+                },
+                {
+                    "name": "Angular 1/4/6",
+                    "level": 3
+                },
+                {
+                    "name": "Vue JS",
+                    "level": 3
+                },
+                {
+                    "name": "React JS",
+                    "level": 3
+                },
+                {
+                    "name": "Redux",
+                    "level": 3
+                }
+            ]
+        },
+        {
+            "name": "Back-end",
+            "level_max": 5,
+            "position": "right",
+            "technologies": [
+                {
+                    "name": "PHP",
+                    "level": 4
+                },
+                {
+                    "name": "Node JS",
+                    "level": 3
+                },
+                {
+                    "name": "Laravel 4x/5x",
+                    "level": 4
+                },
+                {
+                    "name": "Express",
+                    "level": 3
+                },
+                {
+                    "name": "REST API",
+                    "level": 4
+                },
+                {
+                    "name": "Socket IO",
+                    "level": 3
+                }
+            ]
+        },
+        {
+            "name": "Tool",
+            "level_max": 5,
+            "position": "left",
+            "technologies": [
+                {
+                    "name": "GIT",
+                    "level": 4
+                },
+                {
+                    "name": "Backlog",
+                    "level": 3
+                },
+                {
+                    "name": "NPM",
+                    "level": 4
+                },
+                {
+                    "name": "Webpack",
+                    "level": 3
+                }
+            ]
+        },
+        {
+            "name": "Data base",
+            "level_max": 5,
+            "position": "right",
+            "technologies": [
+                {
+                    "name": "MySQL",
+                    "level": 3
+                },
+                {
+                    "name": "MSSQL",
+                    "level": 3
+                },
+                {
+                    "name": "Mongo DB",
+                    "level": 3
+                },
+                {
+                    "name": "PostgreSQL",
+                    "level": 3
+                }
+            ]
+        }
+    ],
+    "products": [
+        {
+            "name": "Kokotachi website",
+            "time": "4 months",
+            "year": 2019,
+            "member": "6",
+            "position": "Coding",
+            "description": "",
+            "technologies": [
+                "React JS", "Bootstrap 4", "jQuery", "Laravel 5", "MySQL", "..."
+            ],
+            "thumbnail": "kokotachi/1.png",
+            "images": [
+                "kokotachi/1.png",
+                "kokotachi/2.png"
+            ]
+        },
+        {
+            "name": "Musubys system",
+            "time": "10 months",
+            "year": 2018,
+            "member": "12",
+            "position": "Coding",
+            "description": "",
+            "technologies": [
+                "Bootstrap 3", "jQuery", "Laravel 5", "MySQL", "..."
+            ],
+            "thumbnail": "musubys/1.png",
+            "images": [
+                "musubys/1.png"
+            ]
+        },
+        {
+            "name": "Solar Nails POS",
+            "time": "4 months",
+            "year": 2018,
+            "member": "6",
+            "position": "Key member",
+            "description": "",
+            "technologies": [
+                "Bootstrap 4", "jQuery", "VUE JS", "Laravel 5", "MySQL", "..."
+            ],
+            "thumbnail": "nails/1.png",
+            "images": [
+                "nails/1.png"
+            ]
+        },
+        {
+            "name": "Customer management software",
+            "time": "3 months",
+            "year": 2018,
+            "member": "3",
+            "position": "Team lead",
+            "description": "",
+            "technologies": [
+                "Bootstrap 4", "jQuery", "Laravel 5", "MySQL", "..."
+            ],
+            "thumbnail": "crm/1.png",
+            "images": [
+                "crm/1.png"
+            ]
+        },
+        {
+            "name": "Warehouse management for TPP company ",
+            "time": "3 months",
+            "year": 2017,
+            "member": "3",
+            "position": "Team lead",
+            "description": "",
+            "technologies": [
+                "Bootstrap 3", "jQuery", "Angular JS", "Laravel 5", "MSSQL", "..."
+            ],
+            "thumbnail": "warehouse/1.png",
+            "images": [
+                "warehouse/1.png"
+            ]
+        }
+    ],
+    "hobbies": [
+        "Like studying new technology, also the history, the creation and foundation of its.",
+        "Like play football, badminton, table tennis"
+    ]
+}
