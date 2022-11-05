@@ -1,1 +1,1 @@
-# shop-php
+# shop
